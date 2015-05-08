@@ -1,4 +1,4 @@
-# Probabilistic-Programming-Langauges
+# Probabilistic-Programming-Languages
 
 Create AI to pass a Turing Test with Probabilistic Language
 
